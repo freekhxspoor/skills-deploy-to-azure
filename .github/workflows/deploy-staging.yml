@@ -6,8 +6,8 @@ on:
 
 env:
   IMAGE_REGISTRY_URL: ghcr.io
-  DOCKER_IMAGE_NAME: freekhxspoor-azure-ttt
-  AZURE_WEBAPP_NAME: freekhxspoor-ttt-app
+  DOCKER_IMAGE_NAME: freekhxspoor1-azure-ttt
+  AZURE_WEBAPP_NAME: freekhxspoor1-ttt-app
 
 jobs:
   build:
